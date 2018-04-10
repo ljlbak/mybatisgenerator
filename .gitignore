@@ -1,0 +1,10 @@
+out
+.idea
+.git
+target
+build.log
+bak.git
+*.iml
+gen
+
+
